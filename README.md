@@ -1,7 +1,7 @@
 # Program Overview
 The program basically takes an input and some of the words to its corresponding Gen-Z slang.
 
-#Development
+# Development
 This is very much done but can still be improved and expanded.
 
 ## Reason
